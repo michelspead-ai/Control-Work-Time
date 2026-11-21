@@ -1,0 +1,6 @@
+{
+  "name": "Control Work Time",
+  "description": "Application privée pour gérants de restaurant : planning d'équipe, modulation 35 h / 39 h HCR, saisie manuelle et import automatique 100% local (OCR et PDF dans le navigateur sans IA distante).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
